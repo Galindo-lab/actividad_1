@@ -1,7 +1,7 @@
 #include<stdio.h>
 
-int main(int argc, char *argv[]) {
-
+int main(int argc, char *argv[])
+{
     float peso_del_perro = 0;
     float medicamento = 0;
 

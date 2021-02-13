@@ -4,8 +4,8 @@ const int DIAS2SEC = 86400;
 const int HORA2SEC = 3600;
 const int MIN2SEC  = 60;
 
-int main(int argc, char *argv[]) {
-
+int main(int argc, char *argv[])
+{
     int dias,horas,minutos,segundos;
     long int segundos_totales = 0;
 

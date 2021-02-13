@@ -1,7 +1,7 @@
 #include<stdio.h>
 
-int main(int argc, char *argv[]) {
-
+int main(int argc, char *argv[])
+{
     float ancho = 0;
     float largo = 0;
     float perimetro = 0;
