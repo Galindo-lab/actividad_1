@@ -9,7 +9,7 @@ int main(int argc, char *argv[]) {
     scanf("%f",&t_celcius);
 
     // calc fahrenheit
-    t_fahrenheit = 9/5 * t_celcius + 32;
+    t_fahrenheit = (9 * t_celcius)/5 + 32;
 
     printf("Temperatura en Fahrenheit: %.2f°\n",t_fahrenheit);
 
